@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marko Hristovski</h1>
-<h3 align="center">A passionate frontend developer that makes sure pixels stay in line</h3>
+<h3 align="center">A frontend developer that makes sure pixels stay in line</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shkotsky&label=Profile%20views&color=0e75b6&style=flat" alt="shkotsky" /> </p>
 
