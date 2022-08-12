@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shkotsky&label=Profile%20views&color=0e75b6&style=flat" alt="shkotsky" /> </p>
 
-- 🔭 I’m currently working on **Dashboard**
+- 🔭 I’m currently working on **REST Countries in React**
 
-- 🌱 I’m currently learning **Mastering Vuex**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Vue**
 
