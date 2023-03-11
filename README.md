@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shkotsky&label=Profile%20views&color=0e75b6&style=flat" alt="shkotsky" /> </p>
 
-- 🔭 I’m currently working on **dashboard React**
+- 🔭 I’m currently working on **dashboard-react**
 
 - 🌱 I’m currently learning **React**
 
