@@ -4,15 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shkotsky&label=Profile%20views&color=0e75b6&style=flat" alt="shkotsky" /> </p>
 
-- 🔭 I’m currently working on **dashboard-react**
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **hristovski1407@gmail.com**
-
-- ⚡ Fun fact **love acoustic guitars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
