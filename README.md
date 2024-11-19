@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marko Hristovski</h1>
-<h3 align="center">A frontend developer that makes sure pixels stay in line</h3>
+<h3 align="center">Pixel whisperer and frontend wizard, turning designs into flawless, interactive realities.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/37/b1/09/37b109af2bbb8621edd288484e83913e.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shkotsky&label=Profile%20views&color=0e75b6&style=flat" alt="shkotsky" /> </p>
